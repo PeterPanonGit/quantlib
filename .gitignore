@@ -126,6 +126,8 @@ Makefile.in
 *.vcxproj.user
 *.log
 *.sdf
+*.opensdf
+*.ilk
 
 # Outputs
 QuantLib/Examples/BermudanSwaption/BermudanSwaption
